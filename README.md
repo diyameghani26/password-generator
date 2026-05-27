@@ -27,6 +27,5 @@ A responsive and aesthetic password generator built using React and Tailwind CSS
 ```bash
 git clone https://github.com/diyameghani26/password-generator.git
 
-Author
 
-Diya Meghani
+
